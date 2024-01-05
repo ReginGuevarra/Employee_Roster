@@ -1,0 +1,92 @@
+[
+  {
+    "firstname": "Jennifer",
+    "lastname": "Smith",
+    "age": 32,
+    "title": "Software Engineer",
+    "manager": "John Doe",
+    "address": "123 Main Street",
+    "phone": "+1 (555) 123-4567"
+  },
+  {
+    "firstname": "Michael",
+    "lastname": "Johnson",
+    "age": 28,
+    "title": "Data Analyst",
+    "manager": "Jane Doe",
+    "address": "456 Elm Avenue",
+    "phone": "+1 (555) 987-6543"
+  },
+  {
+    "firstname": "Emily",
+    "lastname": "Davis",
+    "age": 25,
+    "title": "Product Manager",
+    "manager": "Robert Smith",
+    "address": "789 Oak Road",
+    "phone": "+1 (555) 321-7890"
+  },
+  {
+    "firstname": "David",
+    "lastname": "Brown",
+    "age": 35,
+    "title": "UX Designer",
+    "manager": "Mary Johnson",
+    "address": "101 Cedar Lane",
+    "phone": "+1 (555) 567-1234"
+  },
+  {
+    "firstname": "Sarah",
+    "lastname": "Wilson",
+    "age": 30,
+    "title": "Software Engineer",
+    "manager": "John Doe",
+    "address": "472 Pine Street",
+    "phone": "+1 (555) 876-5432"
+  },
+  {
+    "firstname": "Andrew",
+    "lastname": "Lee",
+    "age": 27,
+    "title": "Data Scientist",
+    "manager": "Jane Doe",
+    "address": "333 Maple Avenue",
+    "phone": "+1 (555) 234-5678"
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Evans",
+    "age": 29,
+    "title": "Product Manager",
+    "manager": "Robert Smith",
+    "address": "641 Birch Road",
+    "phone": "+1 (555) 789-0123"
+  },
+  {
+    "firstname": "William",
+    "lastname": "Turner",
+    "age": 33,
+    "title": "UI Developer",
+    "manager": "Mary Johnson",
+    "address": "555 Cedar Lane",
+    "phone": "+1 (555) 345-6789"
+  },
+  {
+    "firstname": "Olivia",
+    "lastname": "Martin",
+    "age": 31,
+    "title": "Software Engineer",
+    "manager": "John Doe",
+    "address": "532 Oak Road",
+    "phone": "+1 (555) 987-6543"
+  },
+  {
+    "firstname": "Daniel",
+    "lastname": "Clark",
+    "age": 26,
+    "title": "Data Analyst",
+    "manager": "Jane Doe",
+    "address": "777 Elm Avenue",
+    "phone": "+1 (555) 123-4567"
+  }
+]
